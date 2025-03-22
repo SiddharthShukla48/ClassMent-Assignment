@@ -1,0 +1,14 @@
+# Virtual environment
+classment/
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vector database (can be regenerated)
+chroma_db/
+
+# OS specific files
+.DS_Store

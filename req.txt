@@ -1,0 +1,11 @@
+groq
+langchain
+sentence-transformers
+chromadb
+beautifulsoup4
+pymupdf
+requests
+streamlit
+langchain-community
+langchain-groq
+faiss-cpu
